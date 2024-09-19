@@ -3,6 +3,7 @@
 The project aims to analyze customer characteristics to tailor treadmill recommendations based on user profiles, enhancing satisfaction and sales.
 
 Steps Performed:
+
 Data Preparation: Data exploration, cleaning, and handling of missing and null values were conducted.
 Outlier Detection and Treatment: Outliers in the dataset were identified and addressed.
 Feature Analysis: Features such as marital status, gender, and age were analyzed to determine their effect on products purchased.
