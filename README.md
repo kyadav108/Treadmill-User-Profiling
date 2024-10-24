@@ -15,3 +15,11 @@ Percentage Contribution Calculation: The percentage contribution of products and
 Customer Profiling: Customer profiles were developed based on characteristics and purchasing behavior.
 Insights and Recommendations: Key insights were summarized, and actionable recommendations were provided.
 
+**Sales Analysis and Market Insights**
+
+Proficient in analyzing sales percentages by product and age group, driving strategic decision-making. Key achievements include:
+
+**KP281 (Market Share: 44.4%):** Targeted primarily at the 18-40 age group, contributing significantly to overall sales.
+**KP481 (Market Share: 33.2%):** Focused on the same demographic, enhancing market presence in the 18-40 age range.
+**KP781 (Market Share: 22.2%):** Specifically aimed at the 23-35 age group, capturing a niche segment of the market.
+Utilized demographic insights to optimize product offerings and improve marketing strategies, resulting in increased customer engagement and sales performance.
