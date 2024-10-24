@@ -1,8 +1,11 @@
-# Aerofit_Product_Analysis
+# Welcome to My Project! 🚀
+
+## Product Analysis and Customer Profiling
+
  Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
 The project aims to analyze customer characteristics to tailor treadmill recommendations based on user profiles, enhancing satisfaction and sales.
 
-Steps Performed:
+**Steps Performed:**
 
 Data Preparation: Data exploration, cleaning, and handling of missing and null values were conducted.
 Outlier Detection and Treatment: Outliers in the dataset were identified and addressed.
